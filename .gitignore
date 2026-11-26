@@ -1,0 +1,15 @@
+# 이 저장소에는 설명서만 올립니다. 아래 파일은 절대 올리지 않습니다.
+*.exe
+*.zip
+*.piukey
+*.apikey
+client_secret*.json
+secrets*.json
+.env
+*.dat
+queue.json
+src/
+tests/
+*.cs
+*.csproj
+*.sln
